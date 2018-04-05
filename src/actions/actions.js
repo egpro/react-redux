@@ -1,0 +1,5 @@
+export const ADD_PRODUCT = "ADD_PRODUCT";
+export const DELETE_PRODUCT = "DELETE_PRODUCT";
+export const AUTOFILL_PRODUCTS = "AUTOFILL_PRODUCTS";
+export const SORT_BY_FIELD = "SORT_BY_FIELD";
+export const CLEAR_STORE = "CLEAR_STORE";
